@@ -1,0 +1,11 @@
+#back {
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(to bottom, black 50%, orange 50%);
+}
+
+
+#text {
+    color: blue;
+    font-size: 26%;
+}
